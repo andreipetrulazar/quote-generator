@@ -10,7 +10,7 @@
 }
 
 body {
-  background-color: #f43543;
+  background-color: #2c5364;
 }
 
 
@@ -25,7 +25,7 @@ body {
 
 .container {
   width: 100%;
-  background-color: #f43543;
+  background-color: #0f2027;
   padding: 50px 40px;
   box-shadow: 0 20px 65px rgba(87, 11, 16, 0.5);
   position: relative;
@@ -46,7 +46,7 @@ body {
 }
 
 .container p {
-  color: #fdd8d8;
+  color: #fff;
   line-height: 2;
   font-size: 18px;
 }
@@ -63,9 +63,9 @@ body {
   border: none;
   padding: 15px 45px;
   border-radius: 5px;
-  font-size: 18px;
-  font-weight: 600;
-  color: #f43543;
+  font-size: 20px;
+  font-weight: bo;
+  color: black;
   cursor: pointer;
 
 }
